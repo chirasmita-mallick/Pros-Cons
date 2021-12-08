@@ -1,2 +1,2 @@
-# pros-cons
+# Pros/Cons
 A sentiment analysis neural network
